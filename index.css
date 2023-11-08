@@ -1,0 +1,67 @@
+ *{
+    padding: 0;
+    margin: 0;
+}
+ h1 {
+    width:auto;
+    height: 100px;
+    background-color:gray;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size:50px;
+}
+h2{
+    display: flex;
+    background-color
+    height:auto;
+    width: auto;
+    font-size: medium;  
+    text-align: center;
+}   
+img {
+    width: 20px;
+    height: 20px;
+    display: flex;
+    gap:15px;
+    
+}
+.boxButton{
+    background-color:gray;
+    display: flex;
+    justify-content: center;
+    gap: 300px;
+}
+button{
+    background-color: gray;
+    gap: 40px;
+    display: flex;
+    border: none;
+}
+.foto{
+    width: auto;
+    height: auto;
+    background-color:gray;
+}
+
+.text {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height:50px;
+    width: auto;
+}
+
+.footer{
+    
+    background-color: gray;
+    display: flex;
+    flex-direction: center;
+    gap: 50px;
+} 
+.footericons{
+    display: flex;
+    flex-direction: center;
+    gap: 60px;
+}
